@@ -3,7 +3,7 @@
 # Dashboard Header & Example Data
 
 **Header (fields):**  
-status, email, password, name, rounds, venues, city, state, address, postcode, phone_number, card_number, month, year, cvv
+status,email,password,name,rounds,venues,city,state,address,postcode,phone_number,card_number,month,year,cvv
 
 ---
 

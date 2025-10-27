@@ -1,23 +1,4 @@
----
-title: Dashboard Data
-description: Example dashboard header and a sample data row for testing / documentation.
-fields:
-  - status
-  - email
-  - password
-  - name
-  - rounds
-  - venues
-  - city
-  - state
-  - address
-  - postcode
-  - phone_number
-  - card_number
-  - month
-  - year
-  - cvv
----
+
 
 # Dashboard Header & Example Data
 
